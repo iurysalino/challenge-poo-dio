@@ -2,33 +2,33 @@
 This repository is created to develop the challenge DIO about POO.
 The principal objective is put in practice a principal tools the Object Orientation: Abstraction, Encapsulation, Inheritance, Polymorphism, used inside a Java Project.
 
-For develop this project I used the following technologies:
+ </br> For develop this project I used the following technologies:  </br>
 
 ✅ Java11; </br>
-✅ IntelliJ Idea
-✅ Git
-✅ Github
+✅ IntelliJ Idea </br>
+✅ Git </br>
+✅ Github </br>
+✅ Maven </br>
+✅ Lombok </br>
 
-In this process I obtained the next following knowhows:
 
-✅ Domain, Athributs, Instances, Methods, Classes and Objects
-✅ Set, HashMap and LinkdHashMap;
-✅ Inheritance
-✅ Stream
-✅ Lambda function
-✅ LocalDate
+ </br> In this process I obtained the next following knowhows: </br>
 
-Next Steps:
+✅ Domain, Athributs, Instances, Methods, Classes and Objects </br>
+✅ Set, HashMap and LinkdHashMap; </br>
+✅ Inheritance </br>
+✅ Stream </br>
+✅ Lambda function </br>
+✅ LocalDate </br>
 
-✅ Convert this projeto for a Maven Project;
-✅ Import and to use Lombok to simplify Getters and Setter methods;
-✅ Import and to use Postgres to register the data;
-✅ Simplify the register the Developers, Bootcamps, Courses and Contents
+ </br> Next Steps: </br>
 
-👉 Follow me:
+✅ Import and to use Postgres to register the data; </br>
+✅ Simplify the register the Developers, Bootcamps, Courses and Contents; </br>
 
-👉 Github.
-👉 Linkedin: https://www.linkedin.com/in/iurysalino/
+👉 Follow me:  </br>
+👉 Github: https://github.com/iurysalino  </br>
+👉 Linkedin: https://www.linkedin.com/in/iurysalino/  </br>
 
-⚠ And please give me feedbacks, this is very important for my evolution.
+⚠ And please give me feedbacks, this is very important for my evolution.  </br>
 Thanks, see you next!
