@@ -1,7 +1,14 @@
 package br.com.dio.challenge.domain;
 
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.Setter;
+
 import java.time.LocalDate;
 
+@Getter
+@Setter
+@AllArgsConstructor
 public class Mentory extends Contents {
 
     private LocalDate date;
@@ -15,14 +22,6 @@ public class Mentory extends Contents {
     @Override
     public double calculateXp() {
         return DEFAULT_XP + 20d;
-    }
-
-    public LocalDate getDate() {
-        return date;
-    }
-
-    public void setDate(LocalDate date) {
-        this.date = date;
     }
 
     @Override

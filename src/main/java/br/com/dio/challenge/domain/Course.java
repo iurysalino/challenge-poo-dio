@@ -1,23 +1,18 @@
 package br.com.dio.challenge.domain;
 
+import lombok.Getter;
+import lombok.Setter;
+import lombok.ToString;
+
+@Getter
+@Setter
 public class Course extends Contents {
 
     private int workLoad;
 
-    public Course() {
-    }
-
     @Override
     public double calculateXp() {
         return DEFAULT_XP * workLoad;
-    }
-
-    public int getWorkLoad() {
-        return workLoad;
-    }
-
-    public void setWorkLoad(int workLoad) {
-        this.workLoad = workLoad;
     }
 
     @Override
