@@ -10,6 +10,7 @@ The principal objective is put in practice a principal tools the Object Orientat
 ✅ Github </br>
 ✅ Maven </br>
 ✅ Lombok </br>
+✅ JavaDoc </br>
 
 
  </br> In this process I obtained the next following knowhows: </br>
