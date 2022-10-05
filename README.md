@@ -4,7 +4,7 @@ The principal objective is put in practice a principal tools the Object Orientat
 
 For develop this project I used the following technologies:
 
-✅ Java11; 
+✅ Java11; </br>
 ✅ IntelliJ Idea
 ✅ Git
 ✅ Github
