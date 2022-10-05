@@ -8,6 +8,7 @@ public abstract class Contents {
 
     /**
      * This method is responsable to calculate the experience the courses.
+     *
      * @return a numerical value that represents the course experience calculated.
      */
     public abstract double calculateXp();

@@ -6,9 +6,6 @@ public class Mentory extends Contents {
 
     private LocalDate date;
 
-    public Mentory() {
-    }
-
     public Mentory(String title, String description, LocalDate date) {
         this.setTitle(title);
         this.setDescription(description);
