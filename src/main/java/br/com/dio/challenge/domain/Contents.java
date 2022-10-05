@@ -1,6 +1,5 @@
 package br.com.dio.challenge.domain;
 
-import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;
 

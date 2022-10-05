@@ -2,7 +2,6 @@ package br.com.dio.challenge.domain;
 
 import lombok.Getter;
 import lombok.Setter;
-import lombok.ToString;
 
 @Getter
 @Setter
